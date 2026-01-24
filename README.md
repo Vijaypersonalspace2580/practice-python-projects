@@ -1,2 +1,1 @@
-# practice-python-projects
-my beginner projects while learning python. my basic projects on Python.
+All files are in this repository is a basic projects doing on my own wile learning pyhton.
